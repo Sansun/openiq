@@ -1,0 +1,15 @@
+#openIQ is a open souce project that allows you to setup a quiz engine and lets you feed it with your own questions and answers to your indented audience. 
+
+= Introduction =
+If you have taken any type of objective type written test then you are familiar with how it works. By using this code you can create your own Quiz engine. And share them with your kids or over the internet with other kid, or a class of kids. The application was written for anyone (a parent, guardian, teacher, tutor, community co-ordinator, firemen, police, doctor... anyone) who want his child or children, student(s), participants to answer a set of questions the author intented to ask. The response will be evaluated instantly as the particpant answer each question or at the end of the quiz. The history will be stored so that the author and participany can track their progress.
+
+
+This is intented to be used to enhance and share the knowledge for educational purpose and the general welfare of the community.
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
