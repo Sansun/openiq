@@ -13,3 +13,9 @@ Add your content here.  Format your content with:
   * Text in *bold* or _italic_
   * Headings, paragraphs, and lists
   * Automatic links to other wiki pages
+
+== Scenarios ==
+Here are a few scenarios under which openIQ can be used:
+  * You are conducting multi session seminar for your fortune 999999 client and at the end of each session you want your participants to take a quiz based on what you have conducted on that session. You want to track their progress and also want to get a feed on how the session went, you using openIQ, setup questionanires and let the partipants take this online quiz before the next session. Since openIQ has an instant evaluation mode, it will let you know instantly how the participants did and your effectiveness of the seminar.
+
+  * You are a local community Fireman and every Saturday you oranize a group at the local library and you conduct a class about CPR. This is a 5 week program and at the end of the 5 week you want your particpants to take a quiz and distribute them a certification of the program. Using openIQ you setup the quiz and set a threshold to pass the quiz. Who ever passed that threshold will get certificate. 
